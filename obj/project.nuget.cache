@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gXtuopVk0p/M7Y22O/kgSHw5j9FgTOtLH4eE8C618hn/k37/uGJ8lV3lUeKnIiN6p4LzNgkSc1ujg4gwZiMB9Q==",
+  "success": true,
+  "projectFilePath": "/Users/zilishzulfugarli/Desktop/fruitkha_task/fruitkha_task.csproj",
+  "expectedPackageFiles": [
+    "/Users/zilishzulfugarli/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/zilishzulfugarli/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
+    "/Users/zilishzulfugarli/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

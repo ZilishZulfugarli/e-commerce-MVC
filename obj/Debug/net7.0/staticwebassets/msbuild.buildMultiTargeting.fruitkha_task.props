@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/fruitkha_task.props" />
+</Project>

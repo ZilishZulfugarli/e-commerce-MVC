@@ -1,0 +1,19 @@
+﻿@using fruitkha_task.Entities;
+
+@model News
+
+<div class="col-lg-4 col-md-6">
+    <div class="single-latest-Model">
+        <a asp-action="SingleModel" asp-controller="Model" asp-route-id="@Model.Id"><div class="latest-Model-bg" style="background-image: url('@Url.Content(Model.ImgPath)')"></div></a>
+        <div class="Model-text-box">
+            <h3><a href="single-Model.html">@Model.Title</a></h3>
+            <p class="blog-meta">
+                <span class="author"><i class="fas fa-user"></i> @Model.Author</span>
+                <span class="date"><i class="fas fa-calendar"></i> @Model.PostDate</span>
+            </p>
+            <p class="excerpt">@Model.Text</p>
+            <a href="single-Model.html" class="read-more-btn">read more <i class="fas fa-angle-right"></i></a>
+        </div>
+    </div>
+</div>
+

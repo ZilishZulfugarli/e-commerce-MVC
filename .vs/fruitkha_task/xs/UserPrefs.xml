@@ -1,0 +1,65 @@
+﻿<Properties StartupConfiguration="{FC214374-518B-4912-9A99-E5D7B9BAB938}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.fruitkha__task PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="Views/News/Index.cshtml" Line="86" Column="17" />
+      <File FileName="Views/News/SingleNews.cshtml" Line="87" Column="119" />
+      <File FileName="Controllers/NewsController.cs" Line="36" Column="6" />
+      <File FileName="Models/NewsIndexViewModel.cs" Line="9" Column="6" />
+      <File FileName="Models/SingleNewsViewModel.cs" Line="8" Column="39" />
+      <File FileName="Entities/News.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="wwwroot/css/main.css" Line="1642" Column="5" />
+      <File FileName="Views/Shop/Index.cshtml" Line="101" Column="58" />
+      <File FileName="wwwroot/css/carousel.css" Line="1" Column="1" />
+      <File FileName="Views/Shared/_Layout.cshtml" Line="13" Column="53" />
+      <File FileName="Views/Shared/Error.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Shared/_Layout.cshtml.css" Line="1" Column="1" />
+      <File FileName="Models/HomeIndexViewModel.cs" Line="1" Column="1" />
+      <File FileName="Views/Home/Index.cshtml" Line="212" Column="45" />
+      <File FileName="Entities/Product.cs" Line="1" Column="1" />
+      <File FileName="Views/Shared/_ValidationScriptsPartial.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Shared/_NewsPartial.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Shared/Components/Product/Product.cshtml" Line="7" Column="115" />
+      <File FileName="Views/Shared/Components/Product/ProductVC.cs" Line="2" Column="20" />
+      <File FileName="Views/Shared/Components/News/News.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Shared/Components/News/NewsVC.cs" Line="6" Column="54" />
+      <File FileName="Views/Cart/Index.cshtml" Line="200" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="fruitkha_task" expanded="True" selected="True">
+            <Node name="fruitkha_task">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Cart" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="fruitkha_task" expanded="True" selected="True">
+            <Node name="fruitkha_task" expanded="True">
+              <Node name="fruitkha_task" expanded="True" />
+              <Node name="Program" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

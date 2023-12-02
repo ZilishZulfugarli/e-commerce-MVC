@@ -1,0 +1,693 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/obj/Debug/net7.0/scopedcss/projectbundle/fruitkha_task.bundle.scp.css",
+      "PackagePath": "staticwebassets/fruitkha_task.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/bootstrap/.DS_Store",
+      "PackagePath": "staticwebassets/bootstrap/.DS_Store"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/bootstrap/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/bootstrap/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/bootstrap/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/bootstrap/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/bootstrap/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/bootstrap/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/bootstrap/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/bootstrap/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/bootstrap/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/bootstrap/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/bootstrap/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/bootstrap/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/bootstrap/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/bootstrap/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/bootstrap/css/bootstrap.css",
+      "PackagePath": "staticwebassets/bootstrap/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/bootstrap/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/bootstrap/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/bootstrap/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/bootstrap/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/bootstrap/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/bootstrap/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/bootstrap/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/bootstrap/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/bootstrap/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/bootstrap/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/bootstrap/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/bootstrap/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/bootstrap/js/bootstrap.js",
+      "PackagePath": "staticwebassets/bootstrap/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/bootstrap/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/bootstrap/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/bootstrap/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/bootstrap/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/bootstrap/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/bootstrap/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/css/all.min.css",
+      "PackagePath": "staticwebassets/css/all.min.css"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/css/animate.css",
+      "PackagePath": "staticwebassets/css/animate.css"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/css/magnific-popup.css",
+      "PackagePath": "staticwebassets/css/magnific-popup.css"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/css/main.css",
+      "PackagePath": "staticwebassets/css/main.css"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/css/meanmenu.min.css",
+      "PackagePath": "staticwebassets/css/meanmenu.min.css"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/css/owl.carousel.css",
+      "PackagePath": "staticwebassets/css/owl.carousel.css"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/css/responsive.css",
+      "PackagePath": "staticwebassets/css/responsive.css"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/css/scss/base/_mixins.scss",
+      "PackagePath": "staticwebassets/css/scss/base/_mixins.scss"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/css/scss/base/_typography.scss",
+      "PackagePath": "staticwebassets/css/scss/base/_typography.scss"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/css/scss/base/_variables.scss",
+      "PackagePath": "staticwebassets/css/scss/base/_variables.scss"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/css/scss/common/_common.scss",
+      "PackagePath": "staticwebassets/css/scss/common/_common.scss"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/css/scss/common/_footer.scss",
+      "PackagePath": "staticwebassets/css/scss/common/_footer.scss"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/css/scss/common/_header.scss",
+      "PackagePath": "staticwebassets/css/scss/common/_header.scss"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/css/scss/common/_hover.scss",
+      "PackagePath": "staticwebassets/css/scss/common/_hover.scss"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/css/scss/main.scss",
+      "PackagePath": "staticwebassets/css/scss/main.scss"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/css/scss/pages/_404.css",
+      "PackagePath": "staticwebassets/css/scss/pages/_404.css"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/css/scss/pages/_404.scss",
+      "PackagePath": "staticwebassets/css/scss/pages/_404.scss"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/css/scss/pages/_about.scss",
+      "PackagePath": "staticwebassets/css/scss/pages/_about.scss"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/css/scss/pages/_contact.scss",
+      "PackagePath": "staticwebassets/css/scss/pages/_contact.scss"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/css/scss/pages/_shop.scss",
+      "PackagePath": "staticwebassets/css/scss/pages/_shop.scss"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/css/scss/prepros-6.config",
+      "PackagePath": "staticwebassets/css/scss/prepros-6.config"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/css/scss/sections/_about.scss",
+      "PackagePath": "staticwebassets/css/scss/sections/_about.scss"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/css/scss/sections/_cart-banner.scss",
+      "PackagePath": "staticwebassets/css/scss/sections/_cart-banner.scss"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/css/scss/sections/_hero.scss",
+      "PackagePath": "staticwebassets/css/scss/sections/_hero.scss"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/css/scss/sections/_list.scss",
+      "PackagePath": "staticwebassets/css/scss/sections/_list.scss"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/css/scss/sections/_news.scss",
+      "PackagePath": "staticwebassets/css/scss/sections/_news.scss"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/css/scss/sections/_shop-banner.scss",
+      "PackagePath": "staticwebassets/css/scss/sections/_shop-banner.scss"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/css/scss/sections/_testimonials.scss",
+      "PackagePath": "staticwebassets/css/scss/sections/_testimonials.scss"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/img/.DS_Store",
+      "PackagePath": "staticwebassets/img/.DS_Store"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/img/1.jpg",
+      "PackagePath": "staticwebassets/img/1.jpg"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/img/a.jpg",
+      "PackagePath": "staticwebassets/img/a.jpg"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/img/abt.jpg",
+      "PackagePath": "staticwebassets/img/abt.jpg"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/img/avaters/avatar1.png",
+      "PackagePath": "staticwebassets/img/avaters/avatar1.png"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/img/avaters/avatar2.png",
+      "PackagePath": "staticwebassets/img/avaters/avatar2.png"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/img/avaters/avatar3.png",
+      "PackagePath": "staticwebassets/img/avaters/avatar3.png"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/img/breadcrumb-bg.jpg",
+      "PackagePath": "staticwebassets/img/breadcrumb-bg.jpg"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/img/company-logos/1.png",
+      "PackagePath": "staticwebassets/img/company-logos/1.png"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/img/company-logos/2.png",
+      "PackagePath": "staticwebassets/img/company-logos/2.png"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/img/company-logos/3.png",
+      "PackagePath": "staticwebassets/img/company-logos/3.png"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/img/company-logos/4.png",
+      "PackagePath": "staticwebassets/img/company-logos/4.png"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/img/company-logos/5.png",
+      "PackagePath": "staticwebassets/img/company-logos/5.png"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/img/dd.jpg",
+      "PackagePath": "staticwebassets/img/dd.jpg"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/img/favicon.png",
+      "PackagePath": "staticwebassets/img/favicon.png"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/img/feature-bg.jpg",
+      "PackagePath": "staticwebassets/img/feature-bg.jpg"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/img/hero-bg-2.jpg",
+      "PackagePath": "staticwebassets/img/hero-bg-2.jpg"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/img/hero-bg-3.jpg",
+      "PackagePath": "staticwebassets/img/hero-bg-3.jpg"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/img/hero-bg.jpg",
+      "PackagePath": "staticwebassets/img/hero-bg.jpg"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/img/homepage-bg-pattern.png",
+      "PackagePath": "staticwebassets/img/homepage-bg-pattern.png"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/img/latest-news/news-bg-1.jpg",
+      "PackagePath": "staticwebassets/img/latest-news/news-bg-1.jpg"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/img/latest-news/news-bg-2.jpg",
+      "PackagePath": "staticwebassets/img/latest-news/news-bg-2.jpg"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/img/latest-news/news-bg-3.jpg",
+      "PackagePath": "staticwebassets/img/latest-news/news-bg-3.jpg"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/img/latest-news/news-bg-4.jpg",
+      "PackagePath": "staticwebassets/img/latest-news/news-bg-4.jpg"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/img/latest-news/news-bg-5.jpg",
+      "PackagePath": "staticwebassets/img/latest-news/news-bg-5.jpg"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/img/latest-news/news-bg-6.jpg",
+      "PackagePath": "staticwebassets/img/latest-news/news-bg-6.jpg"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/img/logo.png",
+      "PackagePath": "staticwebassets/img/logo.png"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/img/products/product-img-1.jpg",
+      "PackagePath": "staticwebassets/img/products/product-img-1.jpg"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/img/products/product-img-2.jpg",
+      "PackagePath": "staticwebassets/img/products/product-img-2.jpg"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/img/products/product-img-3.jpg",
+      "PackagePath": "staticwebassets/img/products/product-img-3.jpg"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/img/products/product-img-4.jpg",
+      "PackagePath": "staticwebassets/img/products/product-img-4.jpg"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/img/products/product-img-5.jpg",
+      "PackagePath": "staticwebassets/img/products/product-img-5.jpg"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/img/products/product-img-6.jpg",
+      "PackagePath": "staticwebassets/img/products/product-img-6.jpg"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/img/team/team-1.jpg",
+      "PackagePath": "staticwebassets/img/team/team-1.jpg"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/img/team/team-2.jpg",
+      "PackagePath": "staticwebassets/img/team/team-2.jpg"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/img/team/team-3.jpg",
+      "PackagePath": "staticwebassets/img/team/team-3.jpg"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/js/.DS_Store",
+      "PackagePath": "staticwebassets/js/.DS_Store"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/js/jquery.countdown.js",
+      "PackagePath": "staticwebassets/js/jquery.countdown.js"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/js/main.js",
+      "PackagePath": "staticwebassets/js/main.js"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/js/owl.carousel.min.js",
+      "PackagePath": "staticwebassets/js/owl.carousel.min.js"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/js/sticker.js",
+      "PackagePath": "staticwebassets/js/sticker.js"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/webfonts/fa-brands-400.eot",
+      "PackagePath": "staticwebassets/webfonts/fa-brands-400.eot"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/webfonts/fa-brands-400.eot_",
+      "PackagePath": "staticwebassets/webfonts/fa-brands-400.eot_"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/webfonts/fa-brands-400.svg",
+      "PackagePath": "staticwebassets/webfonts/fa-brands-400.svg"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/webfonts/fa-brands-400.ttf",
+      "PackagePath": "staticwebassets/webfonts/fa-brands-400.ttf"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/webfonts/fa-brands-400.woff",
+      "PackagePath": "staticwebassets/webfonts/fa-brands-400.woff"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/webfonts/fa-brands-400.woff2",
+      "PackagePath": "staticwebassets/webfonts/fa-brands-400.woff2"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/webfonts/fa-regular-400.eot",
+      "PackagePath": "staticwebassets/webfonts/fa-regular-400.eot"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/webfonts/fa-regular-400.eot_",
+      "PackagePath": "staticwebassets/webfonts/fa-regular-400.eot_"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/webfonts/fa-regular-400.svg",
+      "PackagePath": "staticwebassets/webfonts/fa-regular-400.svg"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/webfonts/fa-regular-400.ttf",
+      "PackagePath": "staticwebassets/webfonts/fa-regular-400.ttf"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/webfonts/fa-regular-400.woff",
+      "PackagePath": "staticwebassets/webfonts/fa-regular-400.woff"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/webfonts/fa-regular-400.woff2",
+      "PackagePath": "staticwebassets/webfonts/fa-regular-400.woff2"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/webfonts/fa-solid-900.eot",
+      "PackagePath": "staticwebassets/webfonts/fa-solid-900.eot"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/webfonts/fa-solid-900.eot_",
+      "PackagePath": "staticwebassets/webfonts/fa-solid-900.eot_"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/webfonts/fa-solid-900.svg",
+      "PackagePath": "staticwebassets/webfonts/fa-solid-900.svg"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/webfonts/fa-solid-900.ttf",
+      "PackagePath": "staticwebassets/webfonts/fa-solid-900.ttf"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/webfonts/fa-solid-900.woff",
+      "PackagePath": "staticwebassets/webfonts/fa-solid-900.woff"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/webfonts/fa-solid-900.woff2",
+      "PackagePath": "staticwebassets/webfonts/fa-solid-900.woff2"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.fruitkha_task.props",
+      "PackagePath": "build\\fruitkha_task.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.fruitkha_task.props",
+      "PackagePath": "buildMultiTargeting\\fruitkha_task.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.fruitkha_task.props",
+      "PackagePath": "buildTransitive\\fruitkha_task.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.fruitkha_task.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
