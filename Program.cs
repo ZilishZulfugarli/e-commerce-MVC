@@ -1,11 +1,15 @@
-﻿var builder = WebApplication.CreateBuilder(args);
+﻿using fruitkha_task.Data;
+using Microsoft.Extensions.Configuration;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.SqlServer;
 
-string? sqlServerConnection = builder.Configuration
-  .GetConnectionString("DefaultConnection");
-if (sqlServerConnection is null)
-{
-    Console.WriteLine("SQL Server database connection string is missing!");
-}
+
+var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddControllersWithViews();
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();

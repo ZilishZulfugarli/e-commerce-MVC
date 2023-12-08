@@ -6,12 +6,24 @@ namespace fruitkha_task.Controllers {
 
     public class HomeController : Controller
     {
+        private readonly AppDbContext _dbContext;
+
+        public HomeController(AppDbContext dbContext)
+        {
+            _dbContext = dbContext;
+        }
+
         public IActionResult Index()
         {
-            var model = new HomeIndexViewModel
+
+            var products = _dbContext.Product.ToList();
+            var news = _dbContext.News.ToList();
+            var model = new ViewModel
             {
-                Products = ProductRepository.GetProducts()
+                Products = products,
+                News = news
             };
+            _dbContext.SaveChanges();
             return View(model);
         }
 

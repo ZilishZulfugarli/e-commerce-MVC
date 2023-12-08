@@ -12,12 +12,19 @@ namespace fruitkha_task.Controllers
 {
     public class ShopController : Controller
     {
+        private readonly AppDbContext _dbContext;
+
+        public ShopController(AppDbContext dbContext)
+        {
+            _dbContext = dbContext;
+        }
         // GET: /<controller>/
         public IActionResult Index()
         {
-            var model = new HomeIndexViewModel
+            var products = _dbContext.Product.ToList();
+            var model = new ViewModel
             {
-                Products = ProductRepository.GetProducts()
+                Products = products
             };
             return View(model);
         }

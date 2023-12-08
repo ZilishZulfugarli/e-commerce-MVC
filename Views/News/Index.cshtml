@@ -1,4 +1,4 @@
-﻿@model NewsIndexViewModel;
+﻿@model ViewModel;
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -81,23 +81,25 @@
     <div class="latest-news mt-150 mb-150">
         <div class="container">
             <div class="row">
-                @foreach (var news in Model.News)
-                 {
-                <div class="col-lg-4 col-md-6">
-                    <div class="single-latest-news">
-                        <a asp-action="SingleNews" asp-controller="News" asp-route-id="@news.Id"><div class="latest-news-bg" style="background-image: url('@Url.Content(news.ImgPath)')"></div></a>
-                        <div class="news-text-box">
-                            <h3><a href="single-news.html">@news.Title</a></h3>
-                            <p class="blog-meta">
-                                <span class="author"><i class="fas fa-user"></i> @news.Author</span>
-                                <span class="date"><i class="fas fa-calendar"></i> @news.PostDate</span>
-                            </p>
-                            <p class="excerpt">@news.Text</p>
-                            <a href="single-news.html" class="read-more-btn">read more <i class="fas fa-angle-right"></i></a>
+                @foreach (var news in Model.News.Take(6))
+                {
+                    <div class="col-lg-4 col-md-6">
+                        <div class="single-latest-news">
+                            <a asp-action="SingleNews" asp-controller="News" asp-route-id="@news.Id">
+                                <img class="latest-news-bg" src="~/img/latest-news/@(news.ImgPath)" alt="News Image">
+                            </a>
+                            <div class="news-text-box">
+                                <h3><a asp-action="SingleNews" asp-controller="News" asp-route-id="@news.Id">@news.Title</a></h3>
+                                <p class="blog-meta">
+                                    <span class="author"><i class="fas fa-user"></i> @news.Author</span>
+                                    <span class="date"><i class="fas fa-calendar"></i> @news.PostDate</span>
+                                </p>
+                                <p class="excerpt">@news.Text</p>
+                                <a asp-action="SingleNews" asp-controller="News" asp-route-id="@news.Id" class="read-more-btn">read more <i class="fas fa-angle-right"></i></a>
+                            </div>
                         </div>
                     </div>
-                </div>
-                 }
+                }
             </div>
 
             <div class="row">

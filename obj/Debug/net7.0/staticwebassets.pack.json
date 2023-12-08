@@ -93,6 +93,10 @@
       "PackagePath": "staticwebassets/bootstrap/js/bootstrap.min.js.map"
     },
     {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/css/.DS_Store",
+      "PackagePath": "staticwebassets/css/.DS_Store"
+    },
+    {
       "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/css/all.min.css",
       "PackagePath": "staticwebassets/css/all.min.css"
     },
@@ -353,12 +357,28 @@
       "PackagePath": "staticwebassets/img/team/team-3.jpg"
     },
     {
-      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/js/.DS_Store",
-      "PackagePath": "staticwebassets/js/.DS_Store"
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/js/form-validate.js",
+      "PackagePath": "staticwebassets/js/form-validate.js"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/js/jquery-1.11.3.min.js",
+      "PackagePath": "staticwebassets/js/jquery-1.11.3.min.js"
     },
     {
       "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/js/jquery.countdown.js",
       "PackagePath": "staticwebassets/js/jquery.countdown.js"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/js/jquery.isotope-3.0.6.min.js",
+      "PackagePath": "staticwebassets/js/jquery.isotope-3.0.6.min.js"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/js/jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets/js/jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/js/jquery.meanmenu.min.js",
+      "PackagePath": "staticwebassets/js/jquery.meanmenu.min.js"
     },
     {
       "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/js/main.js",
@@ -371,6 +391,10 @@
     {
       "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/js/sticker.js",
       "PackagePath": "staticwebassets/js/sticker.js"
+    },
+    {
+      "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/js/waypoints.js",
+      "PackagePath": "staticwebassets/js/waypoints.js"
     },
     {
       "Id": "/Users/zilishzulfugarli/Desktop/fruitkha_task/wwwroot/lib/bootstrap/LICENSE",
